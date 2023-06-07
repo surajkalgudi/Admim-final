@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cancervive-staging-151024-authRole",
+      "UnauthRoleArn": "arn:aws:iam::514500118502:role/amplify-cancervive-staging-151024-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::514500118502:role/amplify-cancervive-staging-151024-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-cancervive-staging-151024-deployment",
+      "UnauthRoleName": "amplify-cancervive-staging-151024-unauthRole",
+      "StackName": "amplify-cancervive-staging-151024",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:514500118502:stack/amplify-cancervive-staging-151024/43451240-047c-11ee-a44b-0649a590e823",
+      "AmplifyAppId": "dwkeh4uiwzawt"
+    },
+    "categories": {
+      "auth": {
+        "CancerVive": {}
+      }
+    }
+  }
+}
